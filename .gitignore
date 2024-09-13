@@ -2,10 +2,10 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/Lesson_07_09/.vs/Lesson_07_09
-/Lesson_07_09/Lesson_07_09/bin/Debug/net8.0
-/Lesson_07_09/Lesson_07_09/obj
-/Lesson_07_09/Lesson_07_09 Ex2/obj
-/Lesson_07_09/Lesson_07_09 Ex2/bin/Debug/net8.0
-/Lesson_07_09/Lesson_07_09 Ex3/obj
-/Lesson_07_09/Lesson_07_09 Ex3/bin/Debug/net8.0
+/Lesson 11 09/HomeWork/11_09 Homework/.vs/11_09 Homework
+/Lesson 11 09/HomeWork/11_09 Homework/Ex3/bin/Debug/net8.0
+/Lesson 11 09/HomeWork/11_09 Homework/Ex3/obj
+/Lesson 11 09/HomeWork/11_09 Homework/EX2/obj
+/Lesson 11 09/HomeWork/11_09 Homework/EX2/bin/Debug/net8.0
+/Lesson 11 09/HomeWork/11_09 Homework/Ex1/obj
+/Lesson 11 09/HomeWork/11_09 Homework/Ex1/bin/Debug/net8.0
