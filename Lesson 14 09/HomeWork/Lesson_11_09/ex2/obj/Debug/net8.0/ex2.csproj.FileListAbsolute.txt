@@ -1,0 +1,15 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\bin\Debug\net8.0\ex2.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\bin\Debug\net8.0\ex2.deps.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\bin\Debug\net8.0\ex2.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\bin\Debug\net8.0\ex2.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.sourcelink.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\refint\ex2.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 14 09\HomeWork\Lesson_11_09\ex2\obj\Debug\net8.0\ref\ex2.dll
