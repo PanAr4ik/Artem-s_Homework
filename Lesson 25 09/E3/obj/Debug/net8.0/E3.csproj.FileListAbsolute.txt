@@ -1,0 +1,14 @@
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.AssemblyInfoInputs.cache
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.AssemblyInfo.cs
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.csproj.CoreCompileInputs.cache
+C:\Users\darme\source\repos\25 09\E3\bin\Debug\net8.0\E3.exe
+C:\Users\darme\source\repos\25 09\E3\bin\Debug\net8.0\E3.deps.json
+C:\Users\darme\source\repos\25 09\E3\bin\Debug\net8.0\E3.runtimeconfig.json
+C:\Users\darme\source\repos\25 09\E3\bin\Debug\net8.0\E3.dll
+C:\Users\darme\source\repos\25 09\E3\bin\Debug\net8.0\E3.pdb
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.dll
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\refint\E3.dll
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.pdb
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\E3.genruntimeconfig.cache
+C:\Users\darme\source\repos\25 09\E3\obj\Debug\net8.0\ref\E3.dll
