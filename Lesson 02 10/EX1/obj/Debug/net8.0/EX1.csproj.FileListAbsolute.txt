@@ -1,0 +1,15 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\bin\Debug\net8.0\EX1.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\bin\Debug\net8.0\EX1.deps.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\bin\Debug\net8.0\EX1.runtimeconfig.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\bin\Debug\net8.0\EX1.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\bin\Debug\net8.0\EX1.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.AssemblyInfoInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.AssemblyInfo.cs
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.sourcelink.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\refint\EX1.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\EX1.genruntimeconfig.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 02 10\Lesson 02 10\EX1\obj\Debug\net8.0\ref\EX1.dll
