@@ -1,61 +1,87 @@
-﻿namespace EX1
+﻿
+namespace EX1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            BankAccount user1 = new BankAccount(80808008, "Igor", 3000000);
-            Console.WriteLine("Balance" + Convert.ToString(user1.GetBalance()));
-            user1.Deposit(150000);
-            Console.WriteLine("Balance" + user1.GetBalance());
-            user1.Withdraw(100);
-            Console.WriteLine("Balance" + Convert.ToString(user1.GetBalance()));
+            var electronicsOrder = new ElectronicsOrder
+            {
+                OrderNumber = 1,
+                CustomerName = "Иван Иванов",
+                DeviceType = "Телефон",
+                Items = {new OrderItem { ProductName = "iPhone 14", Quantity = 1, Price = 80000 }}
+            };
+
+            var furnitureOrder = new FurnitureOrder
+            {
+                OrderNumber = 2,
+                CustomerName = "Петр Петров",
+                FurnitureType = "Диван",
+                Items = {new OrderItem { ProductName = "Диван кожаный", Quantity = 1, Price = 50000 }}
+            };
+
+            var clothingOrder = new ClothingOrder
+            {
+                OrderNumber = 3,
+                CustomerName = "Мария Иванова",
+                Size = "M",
+                Items = {new OrderItem { ProductName = "Платье", Quantity = 2, Price = 3000 }}
+            };
+
+            var orders = new List<Order> { electronicsOrder, furnitureOrder, clothingOrder };
+
+            foreach (var order in orders)
+            {
+                order.PrintOrder();
+                Console.WriteLine();
+            }
         }
     }
 
-    public class BankAccount
+    public class Order
     {
-    private int _accountNumber;
-    private string _owner;
-    public decimal _balance;
+        public int OrderNumber { get; set; }
+        public string CustomerName { get; set; }
+        public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
-    public BankAccount(int accountNumber, string owner, decimal balance)
-    {
-        this._accountNumber = accountNumber;
-        this._owner = owner;
-        this._balance = balance;
-    }
-
-    // Метод для проверки баланса
-    public decimal GetBalance()
-    {
-        return _balance;
-    }
-
-    // Метод для пополнения счета
-    public void Deposit(decimal amount)
-    {
-        if (amount > 0)
+        public double CalculateTotal()
         {
-            _balance += amount;
-            Console.WriteLine("Счет пополнен на сумму: " + amount);
+            return Items.Sum(item => item.Price * item.Quantity);
         }
-        else
-            Console.WriteLine("Сумма пополнения должна быть положительной.");
-    }
 
-    // Метод для снятия средств
-    public void Withdraw(decimal amount)
-    {
-        if (amount > 0 && amount <= _balance)
+        public void PrintOrder()
         {
-            _balance -= amount;
-            Console.WriteLine("Со счета снято: " + amount);
+            Console.WriteLine($"Номер заказа: {OrderNumber}");
+            Console.WriteLine($"Имя клиента: {CustomerName}");
+            Console.WriteLine("Товары в заказе:");
+            foreach (var item in Items)
+            {
+                Console.WriteLine($" - {item.ProductName}: {item.Quantity} шт. по {item.Price} руб.");
+            }
+            Console.WriteLine($"Итоговая стоимость: {CalculateTotal()} руб.");
         }
-        else
-            Console.WriteLine("Недостаточно средств на счете или сумма снятия некорректна.");
-    }
     }
 
+    public class ElectronicsOrder : Order
+    {
+        public string DeviceType { get; set; }
+    }
 
+    public class FurnitureOrder : Order
+    {
+        public string FurnitureType { get; set; }
+    }
+
+    public class ClothingOrder : Order
+    {
+        public string Size { get; set; }
+    }
+
+    public class OrderItem
+    {
+        public string ProductName { get; set; }
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+    }
 }
