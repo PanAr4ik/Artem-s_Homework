@@ -1,0 +1,17 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\bin\Debug\net8.0-windows\HomeWork 25 10 2024.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\bin\Debug\net8.0-windows\HomeWork 25 10 2024.deps.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\bin\Debug\net8.0-windows\HomeWork 25 10 2024.runtimeconfig.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\bin\Debug\net8.0-windows\HomeWork 25 10 2024.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\bin\Debug\net8.0-windows\HomeWork 25 10 2024.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork_25_10_2024.Form1.resources
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.csproj.GenerateResource.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.AssemblyInfoInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.AssemblyInfo.cs
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.sourcelink.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\refint\HomeWork 25 10 2024.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\HomeWork 25 10 2024.genruntimeconfig.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\HomeWork 25 10 2024\obj\Debug\net8.0-windows\ref\HomeWork 25 10 2024.dll

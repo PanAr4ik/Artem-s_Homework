@@ -1,0 +1,18 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\bin\Debug\net8.0-windows\Lesson Code.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\bin\Debug\net8.0-windows\Lesson Code.deps.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\bin\Debug\net8.0-windows\Lesson Code.runtimeconfig.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\bin\Debug\net8.0-windows\Lesson Code.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\bin\Debug\net8.0-windows\Lesson Code.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson_Code.Form1.resources
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.csproj.GenerateResource.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.AssemblyInfoInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.AssemblyInfo.cs
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.sourcelink.json
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\refint\Lesson Code.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson Code.genruntimeconfig.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\ref\Lesson Code.dll
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 23 10\Lesson 23 10\Lesson Code\obj\Debug\net8.0-windows\Lesson_Code.Properties.Resources.resources
