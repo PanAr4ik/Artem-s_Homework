@@ -1,0 +1,7 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\bin\Debug\Graph.exe.config
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\bin\Debug\Graph.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\bin\Debug\Graph.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\obj\Debug\Graph.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\Graph\obj\Debug\Graph.pdb

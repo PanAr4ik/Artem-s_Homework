@@ -1,0 +1,7 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\bin\Debug\BinaryTree.exe.config
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\bin\Debug\BinaryTree.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\obj\Debug\BinaryTree.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 16 11\Lesson 16 11\BinaryTree\obj\Debug\BinaryTree.pdb
