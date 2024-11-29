@@ -1,0 +1,7 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\bin\Debug\HomeWork 27-11.exe.config
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\bin\Debug\HomeWork 27-11.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\bin\Debug\HomeWork 27-11.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\obj\Debug\HomeWork 27-11.csproj.AssemblyReference.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\obj\Debug\HomeWork 27-11.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\obj\Debug\HomeWork 27-11.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\HomeWork 27-11\obj\Debug\HomeWork 27-11.pdb

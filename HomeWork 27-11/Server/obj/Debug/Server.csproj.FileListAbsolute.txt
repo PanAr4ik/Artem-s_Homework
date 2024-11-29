@@ -1,0 +1,7 @@
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\bin\Debug\Server.exe.config
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\bin\Debug\Server.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\bin\Debug\Server.pdb
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\obj\Debug\Server.exe
+E:\Projekts\С#\AsiCodeL_Shcool\Lesson 27 11\HomeWork 27-11\Server\obj\Debug\Server.pdb
